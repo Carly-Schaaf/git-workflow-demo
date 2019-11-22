@@ -1,1 +1,1 @@
-// creating a user model
+// finished creating a user model
